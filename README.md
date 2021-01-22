@@ -6,3 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 First, clone the repository. Then make sure you run `npm install` command. Then you can start server by running `yarn start` or `npm start`
 
+dr.
